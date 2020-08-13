@@ -8,4 +8,5 @@
 
 [youtube]: https://www.youtube.com/c/JavaLovers
 
-<img align="left" alt="SaralSaxena Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SaralSaxena&show_icons=true&hide_border=true" />
+![Github stats](https://github-readme-stats.vercel.app/api?username=SaralSaxena&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SaralSaxena&layout=compact)
